@@ -4,6 +4,7 @@
   background: #1abc9c;
   color: white;
   font-size: 30px;
+  margin-bottom: 0px;
 }
 
 .card {
@@ -12,4 +13,9 @@
   margin: auto;
   text-align: center;
   font-family: arial;
+  background-color: coral;
+}
+
+.inside {
+  background-color: antiquewhite;
 }
